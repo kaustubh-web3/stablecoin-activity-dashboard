@@ -16,7 +16,7 @@ The dashboard focuses on:
 
 ## Dashboard
 
-Paste your Dune dashboard link here.
+https://dune.com/onchain23/stablecoin-activity-dashboard.
 
 ## Files
 
